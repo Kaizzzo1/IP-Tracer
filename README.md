@@ -8,7 +8,7 @@ _______________
 	$ pkg install git
 	$ pkg install figlet
   	$ pkg install python
-	$ git clone https://github.com/WH1T3-E4GL3/white-IpTracer.git
+	$ git clone https://github.com/Kaizzzo1/IP-Tracer.git
 	$ cd white-IpTracer
 	$ git pull
 	$ pip install -r requirements.txt
